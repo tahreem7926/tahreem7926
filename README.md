@@ -42,10 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahreem7926&hide_border=true" alt="Tahreem's GitHub streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahreem7926&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
 ### 📫 Contact
