@@ -9,12 +9,6 @@ I am a university student and passionate about exploring intelligent systems.
 
 ---
 
-### 📈 GitHub Stats
-
-![Tahreem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahreem7926&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahreem7926&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with Me
 - **GitHub:** [@tahreem7926](https://github.com/tahreem7926)
