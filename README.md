@@ -1,11 +1,11 @@
-# Hi, I'm Tahreem! 👋 
+# Hi, I'm Tahreem! 
 
 I am a university student and passionate about exploring intelligent systems.
 
 ---
 
-### 🚀 What I'm Up To
-- 🧠 Diving deep into **Machine Learning** and **Robotics**
+###  What I'm Up To
+-  Diving deep into **Machine Learning** and **Robotics**
 
 ---
 
