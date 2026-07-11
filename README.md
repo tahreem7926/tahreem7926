@@ -10,7 +10,7 @@ I am a university student and passionate about exploring intelligent systems.
 ---
 
 
-### 📫 Connect with Me
+###  Connect with Me
 - **GitHub:** [@tahreem7926](https://github.com/tahreem7926)
 <!--
 **tahreem7926/tahreem7926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
