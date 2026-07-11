@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Tahreem 👋</h1>
 
 <p align="center">
-  AI student @ FAST-NUCES • Exploring the intelligent systems as I learn
+  AI student @ FAST-NUCES | Building things with Python, C/Assembly, and the web</h3>
+<p align="center">
+  <a href="https://github.com/tahreem7926"><img src="https://img.shields.io/badge/GitHub-tahreem7926-181717?style=flat&logo=github" /></a>
 </p>
 
 <p align="center">
