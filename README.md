@@ -17,7 +17,6 @@
 - 👀 Interested in **algorithms, systems programming, and Robotics**
 
 ---
-
 ### 🛠️ Tech Stack
 
 <p>
@@ -30,8 +29,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
----
-
 
 ---
 
@@ -39,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahreem7926&show_icons=true&theme=default&hide_border=true" alt="Tahreem's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahreem7926&hide_border=true" alt="Tahreem's GitHub streak" height="165"/>
+
 </p>
 
 ---
