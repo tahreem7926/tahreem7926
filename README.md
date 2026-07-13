@@ -33,9 +33,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahreem7926&hide_border=true" alt="Tahreem's GitHub streak" height="165"/>
-</p>
+![snake gif](https://raw.githubusercontent.com/tahreem7926/tahreem7926/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/tahreem7926/tahreem7926/output/github-snake.svg#gh-light-mode-only)
 
 ---
 
