@@ -44,7 +44,7 @@
   <a href="mailto:tahreemfatima12545@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=gmail" alt="Gmail" height="20" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/tahreem-fatima-609a39326">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn" height="20" />
   </a>
