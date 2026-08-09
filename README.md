@@ -38,18 +38,14 @@
 
 ---
 
-### 📫 Email Me At
+### 📫 Contact Me At
 
-<p>
+<p align="center">
   <a href="mailto:tahreemfatima12545@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="24" height="24" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="22" />
   </a>
-</p>
-
-### 📫 LinkedIn  
-
-<p>
+  &nbsp;
   <a href="https://www.linkedin.com/in/tahreem-fatima-609a39326">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" />
   </a>
 </p>
