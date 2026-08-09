@@ -20,7 +20,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
@@ -39,15 +39,24 @@
 ---
 
 ### 📫 Contact
-<p>
+
 <div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 **Gmail** | [tahreemfatima12545@gmail.com](mailto:tahreemfatima12545@gmail.com) |
+| 💼 **LinkedIn** | [tahreem-fatima-609a39326](https://www.linkedin.com/in/tahreem-fatima-609a39326) |
+
+</div>
+
+<p align="center">
   <a href="mailto:tahreemfatima12545@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Gmail-FF0000?style=plastic&logo=gmail&logoColor=white&labelColor=black&color=FF0000" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/tahreem-fatima-609a39326">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=black&color=0077B5" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://github.com/tahreem7926">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-
-
