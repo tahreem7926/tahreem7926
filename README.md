@@ -40,13 +40,12 @@
 
 ### 📫 Contact
 
-
-
 <p>
   <a href="mailto:tahreemfatima12545@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="28" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/tahreem-fatima-609a39326">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
 </p>
