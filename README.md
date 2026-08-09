@@ -38,13 +38,17 @@
 
 ---
 
-### 📫 Contact
+### 📫 Email Me At
 
-<p align="center">
+<p>
   <a href="mailto:tahreemfatima12545@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="24" height="24" />
   </a>
-  &nbsp;&nbsp;
+</p>
+
+### 📫 LinkedIn  
+
+<p>
   <a href="https://www.linkedin.com/in/tahreem-fatima-609a39326">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24" />
   </a>
