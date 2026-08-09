@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Contact
-
+<p>
 <div align="center">
   <a href="mailto:tahreemfatima12545@gmail.com">
     <img src="https://img.shields.io/badge/📧_Gmail-FF0000?style=plastic&logo=gmail&logoColor=white&labelColor=black&color=FF0000" />
@@ -47,4 +47,7 @@
   <a href="https://www.linkedin.com/in/tahreem-fatima-609a39326">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=black&color=0077B5" />
   </a>
+</div>
+</p>
+
 
